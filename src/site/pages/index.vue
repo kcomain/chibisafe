@@ -10,9 +10,20 @@
 					<p>
 						A <strong>modern</strong> and self-hosted file upload service that can handle anything you throw at it.
 					</p>
-					<p>
+					<!--<p>
 						With a fast API, chunked file uploads out of the box, beautiful masonry-style file manager and both individual and album sharing capabilities, this little tool was crafted with the best user experience in mind.<br>
+					</p>-->
+
+					<p>
+						Icon used: <a href="https://www.deviantart.com/zheartl/art/Miku-Loveth-The-Leek-315816927">Miku-Loveth-The-Leek-315816927</a>
 					</p>
+					<p>
+						Background image source: <a href="https://www.pixiv.net/en/artworks/84950313">pixiv: 84950313</a>
+					</p>
+					<p>
+						<a href="//kcomain.dev/stack.html">The entire hive stack</a>
+					</p>
+
 					<div class="mt4" />
 					<Uploader v-if="config.publicMode || (!config.publicMode && loggedIn)" />
 					<div

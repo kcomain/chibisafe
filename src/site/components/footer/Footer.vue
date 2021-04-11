@@ -9,6 +9,7 @@
 							href="https://github.com/pitu"
 							class="no-block">Pitu</a>
 					</span><br>
+					<span>(edited by <a href="//kcomain.dev" class="no-block">kcomain</a>)</span><br>
 					<span>v{{ version }}</span>
 				</div>
 				<div class="column is-narrow bottom-up">

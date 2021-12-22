@@ -15,13 +15,13 @@
 					</p>-->
 
 					<p>
-						Icon used: <a href="https://www.deviantart.com/zheartl/art/Miku-Loveth-The-Leek-315816927">Miku-Loveth-The-Leek-315816927</a>
+						Icon used: PatchCon Chen (2hu projectg)
 					</p>
 					<p>
 						Background image source: <a href="https://www.pixiv.net/en/artworks/84950313">pixiv: 84950313</a>
 					</p>
 					<p>
-						<a href="//kcomain.dev/stack.html">The entire hive stack</a>
+						<a href="//soopy.moe/stack.html">The entire hive stack</a>
 					</p>
 
 					<div class="mt4" />

@@ -9,7 +9,7 @@
 							href="https://github.com/pitu"
 							class="no-block">Pitu</a>
 					</span><br>
-					<span>(<a href="//github.com/soopyc/chibisafe">edited</a> by <a href="//soopy.moe" class="no-block">soopyc</a>)</span><br>
+					<span>(<a href="//github.com/soopyc/chibisafe" class="no-block">edited</a> by <a href="//soopy.moe" class="no-block">soopyc</a>)</span><br>
 					<span>{{ version }}</span>
 				</div>
 				<div class="column is-narrow bottom-up">
@@ -21,7 +21,7 @@
 					<a
 						v-if="loggedIn"
 						@click="createShareXThing">ShareX Config</a>
-					<a href="https://chrome.google.com/webstore/detail/lolisafe-uploader/enkkmplljfjppcdaancckgilmgoiofnj">Chrome Extension</a>
+					<!--<a href="https://chrome.google.com/webstore/detail/lolisafe-uploader/enkkmplljfjppcdaancckgilmgoiofnj">Chrome Extension</a>-->
 				</div>
 			</div>
 		</div>

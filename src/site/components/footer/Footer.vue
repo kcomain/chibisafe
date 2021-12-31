@@ -18,14 +18,10 @@
 					<a href="https://discord.gg/5g6vgwn">Discord</a>
 				</div>
 				<div class="column is-narrow bottom-up">
-					<a
-						v-if="loggedIn"
-						@click="createShareXThing">ShareX Config</a>
-					<router-link
-                                                to="/canary"
-                                                exact>
-                                                Transparency
-                                        </router-link>
+					<a v-if="loggedIn" @click="createShareXThing">ShareX Config</a>
+
+					<router-link to="/canary" exact>Transparency</router-link>
+					<router-link to="/faq" exact>FAQ</router-link>
 					<!--<a href="https://chrome.google.com/webstore/detail/lolisafe-uploader/enkkmplljfjppcdaancckgilmgoiofnj">Chrome Extension</a>-->
 				</div>
 			</div>

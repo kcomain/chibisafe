@@ -23,12 +23,13 @@
 			</header>
 		</div>
 		<a
-			href="https://chrome.google.com/webstore/detail/lolisafe-uploader/enkkmplljfjppcdaancckgilmgoiofnj"
+			v-else
+			href="https://fwd.soopy.moe/85Up"
 			target="_blank"
 			class="link">
 			<header class="bd-footer-star-header">
-				<h4 class="bd-footer-title">Extension</h4>
-				<p class="bd-footer-subtitle">Upload from any website</p>
+				<h4 class="bd-footer-title"></h4>
+				<p class="bd-footer-subtitle">kinda empty here eh</p>
 			</header>
 		</a>
 		<router-link

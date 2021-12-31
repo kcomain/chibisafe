@@ -1,0 +1,33 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Warranty Canary
+- ----------------
+
+1. We have not recieved any kind of warrants to this site since its creation (2021-12-05)
+2. Our database and this site has not been searched, seized or otherwise accessed by unauthorized entities (i.e. government departments, FBI and equivalent)
+3. We have not been forced to modify the source code of this service or run a backdoored version of this site.
+
+This document will be re-signed every 3 months. In addition, this document will also be re-signed every time it has been updated.
+Every re-signature will be logged in the Past signatures section below.
+
+If this is not updated within 3 months, please assume something happened.
+
+The webpage version of this document is available at https://chen.soopy.moe/canary.
+
+Signature information
+======================
+This canary is signed by Sophie Cheung <me@soopy.moe> (0xDB9BEC3A93B4B1DF)
+
+A copy of my public key can be found on keybase (https://keybase.io/kcomain) or on keys.openpgp.org
+
+Past signatures
+================
+1. 2021-12-31T17:42:28.6887041Z (initial sign)
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQxwgq7ng8y0bgd5MiiiP5d4JMp/QUCYc9BBAAKCRCiiP5d4JMp
+/SXPAQD8gmGBHLXcVC+slhEQ77t0BxEwgc+7tdnzjN2k+rR/HgD/fwTFNq+vzBYG
+UTBkdDdfrP5V+cyOCHnQbrnlx2OBsQM=
+=CYky
+-----END PGP SIGNATURE-----

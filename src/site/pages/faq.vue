@@ -32,11 +32,13 @@
 				<p>
 				    This service is hosted on a machine in Hong Kong and as such, usage is subject to the Hong Kong Law and this list.<br>
 				</p>
+				<hr>
 				<details>
 					<summary>Things you should not do</summary>
 					<ul>
-						<li>uploading child pornograhy of any kind (lolicon, shotacon, etc)</li>
-						<li>uploading files (including images, videos, executables, albums, tape records and more) that violates the laws of Hong Kong, including the National Security Law.</li>
+						<li>- uploading child pornograhy of any kind (lolicon, shotacon, etc)</li>
+						<li>- uploading files (including images, videos, executables, albums, tape records and more) that violates the laws of Hong Kong, including the National Security Law.</li>
+						<li>- uploading anything in general that is going to get me in jail</li>
 					</ul>
 				</details>
 				<p>your access will be revoked if you did any of the above *very reasonable* list</p>
@@ -78,6 +80,7 @@
 				There are too many file upload services out there, and a lot of them rely on the foundations of pomf which is ancient. In a desperate and unsuccessful attempt of finding a good file uploader that's easily extendable, chibisafe was born. We give you control over your files, we give you a way to sort your uploads into albums for ease of access and we give you an api to use with ShareX or any other thing that lets you make POST requests.
 			</div>
 		</article>
+		<br><br><br><br><br>
 	</div>
 </template>
 
@@ -98,4 +101,5 @@ export default {
 <style lang="scss" scoped>
 	@import '~/assets/styles/_colors.scss';
 	article.message { background-color: #ffffff; }
+	p {color: #000000; }
 </style>

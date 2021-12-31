@@ -21,6 +21,11 @@
 					<a
 						v-if="loggedIn"
 						@click="createShareXThing">ShareX Config</a>
+					<router-link
+                                                to="/canary"
+                                                exact>
+                                                Transparency
+                                        </router-link>
 					<!--<a href="https://chrome.google.com/webstore/detail/lolisafe-uploader/enkkmplljfjppcdaancckgilmgoiofnj">Chrome Extension</a>-->
 				</div>
 			</div>

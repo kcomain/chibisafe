@@ -13,7 +13,7 @@
 				Login to access your files and folders
 			</h2>-->
 			<div>
-				<i>Last signed and updated 2021-12-31T17:42:28.6887041Z</i>
+				<i>Last signed and updated 2022-03-31T05:33:22,176194759+00:00</i>
 				<ol>
 					<li>We have not recieved any kind of warrants to this site since its creation (2021-12-05)</li>
 					<li>Our database and this site has not been searched, seized or otherwise accessed by unauthorized entities (i.e. government departments, FBI and equivalent)</li>

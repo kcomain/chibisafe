@@ -1,5 +1,5 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
+Hash: SHA256
 
 Warranty Canary
 - ----------------
@@ -24,11 +24,10 @@ A copy of my public key can be found on keybase (https://keybase.io/kcomain) or 
 Past signatures
 ================
 1. 2021-12-31T17:42:28.6887041Z (initial sign)
-2. 2022-03-31T05:33:22,176194759+00:00 (routine sign)
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQxwgq7ng8y0bgd5MiiiP5d4JMp/QUCYkU9IgAKCRCiiP5d4JMp
-/dzVAQDHm4X1x9fcVms2u9mYa08H8MTfwqIlVA6uiSnppr+AZwD+NzFwzeRwWUQc
-0rL23M6nEUE1cQI9pwzpM4XmFeWSsQk=
-=QMKr
+iHUEARYIAB0WIQQxwgq7ng8y0bgd5MiiiP5d4JMp/QUCYc9BBAAKCRCiiP5d4JMp
+/SXPAQD8gmGBHLXcVC+slhEQ77t0BxEwgc+7tdnzjN2k+rR/HgD/fwTFNq+vzBYG
+UTBkdDdfrP5V+cyOCHnQbrnlx2OBsQM=
+=CYky
 -----END PGP SIGNATURE-----

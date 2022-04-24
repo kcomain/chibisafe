@@ -1,4 +1,6 @@
-echo "This script requires powershell 7 or newer."
+#echo "This script requires powershell 7 or newer."
+#no lmfao
+
 
 printf "Current number of signs + 1: "
 read TIMES

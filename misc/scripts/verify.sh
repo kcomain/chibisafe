@@ -11,7 +11,7 @@ COMMENT=${COMMENT:-"routine sign"}
 
 echo "Using comment $COMMENT"
 
-mv canary.txt canary.txt.old -vf
+mv -vf canary.txt canary.txt.old
 
 echo "Sign a bollocks text to speed up process"
 echo "penis" | gpg -a --default-key DB9BEC3A93B4B1DF --clear-sign > /dev/null
